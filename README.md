@@ -1,2 +1,2 @@
 # Algorithms
-Python 3.0+ implementation of Algorithms and Data Structures
+Python 3.0+ implementation of Algorithms, Data Structures and Others.
